@@ -1,6 +1,8 @@
 # SMOKING DETECTOR DEMO
 
-I just built a smoking detector model using CNN, and here is the demo.
+![Demo](demo.gif)
+
+A convolutional neural networks-based smoking detector.
 
 how to use:
 
