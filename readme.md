@@ -2,7 +2,7 @@
 
 ![Demo](demo.gif)
 
-A convolutional neural networks-based smoking detector.
+A convolutional neural network-based smoking detector.
 
 how to use:
 
